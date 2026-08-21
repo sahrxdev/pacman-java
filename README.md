@@ -59,8 +59,8 @@ pacman*.png      # Pac-Man directional sprites
 
 ## Author
 
-Dev.Sahr (Sahr Momoh Solokor) — Computer Science student, University of Makeni (UNIMAK)
+(Sahr Momoh Solokor) 
 
 ## License
 
-This project is for educational purposes.
+This project is for educational and portfolio purposes.
